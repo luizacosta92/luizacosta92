@@ -1,5 +1,3 @@
-# Projeto de Contribuição  OpenSource
-
 Hello world, eu sou Luiza Costa, jornalista em transição de carreira para a área de programação. Formada e mestra em jornalismo, depois de atuar por 10 anos com marketing digital decidi que era hora de entrar de cabeça no mundo da tecnologia. Nessa jornada, trago comigo uma bagagem de habilidades em comunicação, análise e liderança.
 
 Já atuei como Scrum Master, P.O, Líder de Conteúdo e Editora, funções que fizeram minhas habilidades de organização, agilidade e liderança alcançarem um patamar mais alto.
