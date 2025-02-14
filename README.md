@@ -1,16 +1,22 @@
-Hello world, eu sou Luiza Costa, jornalista em transição de carreira para a área de programação. Formada e mestra em jornalismo, depois de atuar por 10 anos com marketing digital decidi que era hora de entrar de cabeça no mundo da tecnologia. Nessa jornada, trago comigo uma bagagem de habilidades em comunicação, análise e liderança.
+<h1 align="center">👋 Hello world, eu sou Luiza Costa!</h1>
 
-Já atuei como Scrum Master, P.O, Líder de Conteúdo e Editora, funções que fizeram minhas habilidades de organização, agilidade e liderança alcançarem um patamar mais alto.
+<p align="center">
+  🚀 Back-end student | 📡 Especialista de conteúdo | 🎓 Mestra em jornalismo
+</p>
 
-No momento, estou aprendendo as principais tecnologias para atuar com desenvolvimento web, mas também tenho interesse em saber mais sobre engenharia e arquitetura de software, mobile (iOs e Android) e DevOps.  
+---
 
-### Onde me encontrar 
+## 🌎 Sobre mim  
+💻 Jornalista e líder de conteúdo, em transição de carreira para a área de tecnologia.  
+🎓 Estudante de Back-end Java na **Ada Tech** e Análise e Desenvolvimento de Sistemas na **Unisenai Santa Catarina**.  
+🔍 Interesse especial em **Engenharia e arquitetura de software**, **DevOps** e **Metodologias ágeis**.  
+📍 Baseada em Florianópolis, SC, Brasil.  
+
+💬 **Vamos conectar?**
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiza-mylena-costa/) [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@luiza_costa/) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/luizacosta92) [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:mylenaluizajor@gmail.com)
 
-
-
-  
 
 ## O que faço
 
