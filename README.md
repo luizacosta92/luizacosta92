@@ -7,7 +7,8 @@
 ---
 
 ## 🌎 Sobre mim  
-💻 Jornalista e líder de conteúdo, em transição de carreira para a área de tecnologia.  
+💻 Jornalista em transição de carreira para a área de tecnologia.  
+👩🏽‍💻 Atuando 10 anos com conteúdo e marketing, tive experiência com **metodologias ágeis**, **liderança de equipes**, **gestão de projetos** e **gestão de processos**.
 🎓 Estudante de Back-end Java na **Ada Tech** e Análise e Desenvolvimento de Sistemas na **Unisenai Santa Catarina**.  
 🔍 Interesse especial em **Engenharia e arquitetura de software**, **DevOps** e **Metodologias ágeis**.  
 📍 Baseada em Florianópolis, SC, Brasil.  
