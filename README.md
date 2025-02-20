@@ -1,15 +1,15 @@
 <h1 align="center">👋 Hello world, eu sou Luiza Costa!</h1>
 
 <p align="center">
-  🚀 Back-end student | 📡 Especialista de conteúdo | 🎓 Mestra em jornalismo
+  🚀 Tech lead e jornalista | 🎓 Mestra em jornalismo e mestranda em ciência da computação
 </p>
 
 ---
 
 ## 🌎 Sobre mim  
-💻 Ex-jornalista, engenheira de software 
-👩🏽‍💻 Experiência com **metodologias ágeis**, **liderança de equipes**, **gestão de projetos** e **gestão de processos**.   
-🎓 Pós-graduada em Ciência da Computação pela **USP**.  
+💻 Do jornalismo para a engenharia de software  
+👩🏽‍💻 Experiência com **desenvolvimento de software**, **metodologias ágeis**, **liderança de equipes**, **gestão de projetos e processos** e **inteligência artificial**.   
+🎓 Mestranda em Ciência da Computação pela **UFSC**.  
 🔍 Interesse especial em **Engenharia e arquitetura de software** e **DevOps**.  
 📍 Baseada em Florianópolis, SC, Brasil.  
 
