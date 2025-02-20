@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hello world, eu sou Luiza Costa!</h1>
 
 <p align="center">
-  🚀 Tech lead e jornalista | 🎓 Mestra em jornalismo e mestranda em ciência da computação
+  🚀 Desenvolvedora de software e jornalista | 🎓 Mestra em jornalismo e mestranda em ciência da computação
 </p>
 
 ---
