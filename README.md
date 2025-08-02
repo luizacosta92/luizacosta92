@@ -1,16 +1,15 @@
 <h1 align="center">👋 Hello world, eu sou Luiza Costa!</h1>
 
 <p align="center">
-  🚀 Back-end student | 📡 Especialista de conteúdo | 🎓 Mestra em jornalismo
+  🚀 Back-end Developer | 📡 Especialista de conteúdo | 🎓 Mestra em jornalismo
 </p>
 
 ---
 
 ## 🌎 Sobre mim  
-💻 Jornalista em transição de carreira para a área de tecnologia.  
-👩🏽‍💻 Atuando 10 anos com conteúdo e marketing, tive experiência com **metodologias ágeis**, **liderança de equipes**, **gestão de projetos** e **gestão de processos**.   
-🎓 Estudante de Back-end Java na **Ada Tech** e Análise e Desenvolvimento de Sistemas na **Unisenai Santa Catarina**.  
+💻 Desenvolvedora de Software Jr. no Mercado Livre, atuando com as linguagens Java e Go.  
 🔍 Interesse especial em **Engenharia e arquitetura de software**, **DevOps** e **Metodologias ágeis**.  
+👩🏽‍💻 Atuei por mais de 10 anos com conteúdo e marketing, onde tive experiência com **metodologias ágeis**, **liderança de equipes**, **gestão de projetos** e **gestão de processos**.   
 📍 Baseada em Florianópolis, SC, Brasil.  
 
 💬 **Vamos conectar?**
@@ -21,7 +20,7 @@
 
 ## O que faço
 
-Desenvolvendo os estudos para criar uma base sólida em lógica de programação, HTML5, CSS3, Git, GitHub, Java e JavaScript, com foco em me tornar uma desenvolvedora full-stack.
+Atuando com back-end para criar uma base sólida em lógica de programação, Git, GitHub, Java e Go, com foco em me tornar uma engenheira de software inovadora e eficiente.
 
 ### Experiência com as tecnologias
 ![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown)  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0)
